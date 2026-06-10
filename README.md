@@ -7,10 +7,10 @@ Designed and configured a Multi-Area OSPF network in Cisco Packet Tracer with 9 
 
 ## CLI
 
-![CLI](images/CLI1.png)
-![CLI](images/CLI2.png)
-![CLI](images/CLI3.png)
-![CLI](images/CLI4.png)
+![CLI](Images/CLI1.png)
+![CLI](Images/CLI2.png)
+![CLI](Images/CLI3.png)
+![CLI](Images/CLI4.png)
 
 
 ## Demo Video
