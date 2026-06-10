@@ -3,7 +3,7 @@ Designed and configured a Multi-Area OSPF network in Cisco Packet Tracer with 9 
 
 ## Network Topoglogy
 
-![Network Topology](images/Topology.png)
+![Network Topology](Images/Topology.png)
 
 ## CLI
 
